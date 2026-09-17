@@ -1,0 +1,50 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Static and shared libraries
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Build directories
+build/
+bin/
+cmake-build-*/
+
+# CMake files (if you use CMake)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+
+# VS Code settings (optional)
+.vscode/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+
+# macOS
+.DS_Store
+
+# Linux temporary files
+*~
+
+# Log files
+*.log
+
+# Architecture documentation (local only)
+ARCHITECTURE.md
+
+# Build artifacts in root
+MyCompiler
