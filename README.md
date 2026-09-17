@@ -2,7 +2,6 @@
 
 ![C++](https://img.shields.io/badge/C%2B%2B-17-blue.svg)
 ![CMake](https://img.shields.io/badge/CMake-3.10+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen.svg)
 
 A **complete compiler toolchain** for a Mini-like imperative language, implemented from scratch in **C++17**. This project implements a full compilation pipeline: lexical analysis → parsing → AST construction → bytecode generation → stack-based VM execution.
